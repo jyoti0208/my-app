@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Ariel, Helvetica, sans-serif;
+    line-height: 1.4;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+}
+
+.card {
+    float: left;
+    margin-left: 10%;
+    
+}
+
+.page-footer{
+    clear: both;
+    margin-top: 40px;
+}
+
+. nav-item{
+   display:inline-block;
+}
